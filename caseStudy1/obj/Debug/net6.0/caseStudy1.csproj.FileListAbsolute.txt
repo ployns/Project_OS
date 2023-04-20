@@ -1,0 +1,15 @@
+/Users/napasorn/Desktop/work/OS/caseStudy1/bin/Debug/net6.0/caseStudy1
+/Users/napasorn/Desktop/work/OS/caseStudy1/bin/Debug/net6.0/caseStudy1.deps.json
+/Users/napasorn/Desktop/work/OS/caseStudy1/bin/Debug/net6.0/caseStudy1.runtimeconfig.json
+/Users/napasorn/Desktop/work/OS/caseStudy1/bin/Debug/net6.0/caseStudy1.dll
+/Users/napasorn/Desktop/work/OS/caseStudy1/bin/Debug/net6.0/caseStudy1.pdb
+/Users/napasorn/Desktop/work/OS/caseStudy1/obj/Debug/net6.0/caseStudy1.csproj.AssemblyReference.cache
+/Users/napasorn/Desktop/work/OS/caseStudy1/obj/Debug/net6.0/caseStudy1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/napasorn/Desktop/work/OS/caseStudy1/obj/Debug/net6.0/caseStudy1.AssemblyInfoInputs.cache
+/Users/napasorn/Desktop/work/OS/caseStudy1/obj/Debug/net6.0/caseStudy1.AssemblyInfo.cs
+/Users/napasorn/Desktop/work/OS/caseStudy1/obj/Debug/net6.0/caseStudy1.csproj.CoreCompileInputs.cache
+/Users/napasorn/Desktop/work/OS/caseStudy1/obj/Debug/net6.0/caseStudy1.dll
+/Users/napasorn/Desktop/work/OS/caseStudy1/obj/Debug/net6.0/refint/caseStudy1.dll
+/Users/napasorn/Desktop/work/OS/caseStudy1/obj/Debug/net6.0/caseStudy1.pdb
+/Users/napasorn/Desktop/work/OS/caseStudy1/obj/Debug/net6.0/caseStudy1.genruntimeconfig.cache
+/Users/napasorn/Desktop/work/OS/caseStudy1/obj/Debug/net6.0/ref/caseStudy1.dll
